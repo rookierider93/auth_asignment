@@ -76,3 +76,4 @@ C:\ROHAN\Study\auth_asignment\AuthApp\obj\Debug\net7.0\refint\AuthApp.dll
 C:\ROHAN\Study\auth_asignment\AuthApp\obj\Debug\net7.0\AuthApp.pdb
 C:\ROHAN\Study\auth_asignment\AuthApp\obj\Debug\net7.0\AuthApp.genruntimeconfig.cache
 C:\ROHAN\Study\auth_asignment\AuthApp\obj\Debug\net7.0\ref\AuthApp.dll
+C:\ROHAN\Study\auth_asignment\AuthApp\obj\Debug\net7.0\AuthApp.sourcelink.json
