@@ -1,0 +1,19 @@
+@page
+@model Microsoft.AspNetCore.Mvc.RazorPages.PageModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Register</title>
+</head>
+<body>
+    <h1>Register (Local)</h1>
+    <form method="post" action="/Account/Register">
+        <label>Email: <input type="email" name="email" required /></label><br />
+        <label>Password: <input type="password" name="password" required /></label><br />
+        <button type="submit">Register</button>
+    </form>
+    <p><a href="/">Back</a></p>
+</body>
+</html>

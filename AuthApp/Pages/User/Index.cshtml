@@ -1,0 +1,17 @@
+@page
+@model AuthApp.Pages.User.IndexModel
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>User Page</title>
+</head>
+<body>
+    <h1>User Page</h1>
+    <p>Only authenticated users can see this.</p>
+    <p><a href="/">Back</a></p>
+</body>
+</html>
